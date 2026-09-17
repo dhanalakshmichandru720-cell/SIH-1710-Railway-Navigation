@@ -99,7 +99,18 @@ The system supports:
 - Multilingual voice assistance.
 - Integration with railway service applications.
 - Emergency route guidance.
+## 11. Proposed Solution Architecture
 
-## 11. Conclusion
+The following diagram shows the architecture of the proposed RailGuide system, including users, mobile application, digital kiosk, navigation engine, station database, map and routing module, accessibility features and real-time updates.
+
+![Proposed Solution Architecture](Screenshot%202026-09-17%20112931.png)
+
+## 13. Use Case Diagram
+
+The use case diagram represents the interactions between passengers, elderly passengers, visually impaired passengers, and station administrators with the RailGuide system.
+
+![Use Case Diagram](Screenshot%202026-09-17%20114333.png)
+
+## 14. Conclusion
 
 RailGuide provides a user-friendly approach to navigating railway stations. By combining interactive maps, route guidance, accessibility features and digital kiosks, the proposed system can make railway station navigation easier, faster and more accessible for passengers.
