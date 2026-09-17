@@ -99,17 +99,17 @@ The system supports:
 - Multilingual voice assistance.
 - Integration with railway service applications.
 - Emergency route guidance.
-## 11. Proposed Solution Architecture
+## 6. Proposed Solution Architecture
 
 The following diagram shows the architecture of the proposed RailGuide system, including users, mobile application, digital kiosk, navigation engine, station database, map and routing module, accessibility features and real-time updates.
 
-![Proposed Solution Architecture](Screenshot%202026-09-17%20112931.png)
+![Proposed Solution Architecture](proposed-solution.png)
 
-## 13. Use Case Diagram
+## 7. Use Case Diagram
 
 The use case diagram represents the interactions between passengers, elderly passengers, visually impaired passengers, and station administrators with the RailGuide system.
 
-![Use Case Diagram](Screenshot%202026-09-17%20114333.png)
+![Use Case Diagram](use-case-diagram.png)
 
 ## 14. Conclusion
 
